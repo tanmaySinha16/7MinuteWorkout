@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    tools:context=".activity.activity_finish"
+    >
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbarFinishActivity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="END"
+        android:textStyle="bold"
+        android:textSize="40dp"
+        android:paddingTop="40dp"
+        android:textColor="@color/colorAccent"
+        />
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_gravity="center"
+        android:background="@drawable/item_circular_color_accent_border">
+
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_gravity="center"
+            android:src="@drawable/ic_action_done"
+            />
+
+    </LinearLayout>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Congratulation!"
+            android:layout_marginTop="20dp"
+            android:textColor="@color/black"
+            android:textSize="20dp"
+            />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="You have completed the workout!"
+        android:textColor="#212121"
+        android:textSize="18sp"
+        android:layout_marginTop="4dp"
+        />
+        <Button
+            android:id="@+id/btnFinish"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:text="FINISH"
+            android:layout_marginTop="20dp"
+            />
+
+
+
+
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>
