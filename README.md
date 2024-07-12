@@ -73,8 +73,8 @@ In this fragment, users can update their data (name and weight).
 ### Exercise Activity
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dixttklud/image/upload/v1674791368/7MinuteWorkoutApp/Screenshot_20230126-110500_7MinuteWorkout_ogev7i.jpg" width="20%" height="20%">
-  <img src="https://res.cloudinary.com/dixttklud/image/upload/v1674791379/7MinuteWorkoutApp/Screenshot_20230126-110508_7MinuteWorkout_bno9ea.jpg" width="20%" height="20%">
+  <img src="https://res.cloudinary.com/dixttklud/image/upload/v1720790459/Screenshot_20240712_184906_osgogo.png" width="20%" height="20%">
+  <img src="https://res.cloudinary.com/dixttklud/image/upload/v1720790459/Screenshot_20240712_184917_nhfji6.png" width="20%" height="20%">
 </p>
 
 ## Installation
