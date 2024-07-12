@@ -63,7 +63,7 @@ In this fragment, users can store their data (name and weight). Shared Preferenc
 ### Settings Fragment
 In this fragment, users can update their data (name and weight).
 
-<img src="https://res.cloudinary.com/dixttklud/image/upload/v1675011114/RunningAppSS/Screenshot_20230129_222100_vfw6vj.png" width="20%" height="20%">
+<img src="https://res.cloudinary.com/dixttklud/image/upload/v1720790179/Settings_p0tbhp.png" width="20%" height="20%">
 
 ### Home Screen
 
