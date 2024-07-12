@@ -67,17 +67,8 @@ In this fragment, users can update their data (name and weight).
 
 ### Home Screen
 
-<img src="https://res.cloudinary.com/dixttklud/image/upload/v1674791323/7MinuteWorkoutApp/Screenshot_20230126-110428_7MinuteWorkout_xhidpj.jpg" width="20%" height="20%">
+<img src="https://res.cloudinary.com/dixttklud/image/upload/v1720790007/7MinHomeScreen_nbrlnq.png" width="20%" height="20%">
 
-### History Activity
-This activity shows the list of completed workouts with date and time.
-
-<img src="https://res.cloudinary.com/dixttklud/image/upload/v1674792542/7MinuteWorkoutApp/Screenshot_20230127_093410_iphx0h.png" width="20%" height="20%">
-
-### BMI Activity
-In this activity, users can calculate their Body Mass Index (BMI) using their weight and height.
-
-<img src="https://res.cloudinary.com/dixttklud/image/upload/v1674791338/7MinuteWorkoutApp/Screenshot_20230126-110438_7MinuteWorkout_jnpztv.jpg" width="20%" height="20%">
 
 ### Exercise Activity
 
